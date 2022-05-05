@@ -1,0 +1,9 @@
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.csprojResolveAssemblyReference.cache
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.MainForm.resources
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.Cache
+D:\Document\SharpDevelop Projects\Cafe\Cafe\bin\Debug\Cafe.exe
+D:\Document\SharpDevelop Projects\Cafe\Cafe\bin\Debug\Cafe.pdb
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.exe
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.pdb
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.Pegawai.resources
+D:\Document\SharpDevelop Projects\Cafe\Cafe\obj\Debug\Cafe.Pembelian.resources
